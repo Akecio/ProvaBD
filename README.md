@@ -13,7 +13,7 @@ Repositório para modelagem do banco de dados
 </ul>
 
 <div align="center">
-  <img src="Users\akeci\OneDrive\Documentos\ProvaBD\Lógico_1"/>
+  <img src="https://raw.githubusercontent.com/Akecio/ProvaBD/master/L%C3%B3gico_1.png"/>
 </div>
 
 # Descrição das tabelas do modelo
