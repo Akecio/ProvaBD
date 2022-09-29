@@ -12,6 +12,12 @@ Repositório para modelagem do banco de dados
  <li>Adeilson Aragão</li>
 </ul>
 
+<h2>Modelo conceitual</h2>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Akecio/ProvaBD/master/Conceitual_1.png"/>
+</div>
+
+<h2>Modelo lógico</h2>
 <div align="center">
   <img src="https://raw.githubusercontent.com/Akecio/ProvaBD/master/L%C3%B3gico_1.png"/>
 </div>
