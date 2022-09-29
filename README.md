@@ -1,5 +1,5 @@
-# Modelagem do Banco de Dados
-Repositório para modelagem do banco de dados
+# Avaliação de Banco de Dados
+Repositório para avaliação de banco de dados
 
 <i>Integrantes</i>
 <ul>
